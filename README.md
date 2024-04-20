@@ -13,7 +13,7 @@ git push
 ctrl+c (^c) to quit a command
 
 
-If you haven't already do this:
+If you haven't already, do this:
 
 npm install live-server -g
 
