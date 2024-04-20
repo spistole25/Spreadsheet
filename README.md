@@ -6,7 +6,7 @@ git add
     git add [the file you want to add]
 
 git commit
-    git commit -m "means I'm ading a message"
+    git commit -m "means I'm adding a message"
 
 git push
 
