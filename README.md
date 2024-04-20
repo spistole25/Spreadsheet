@@ -11,3 +11,16 @@ git commit
 git push
 
 ctrl+c (^c) to quit a command
+
+
+If you haven't already do this:
+
+npm install live-server -g
+
+To run the server type:
+
+Live-server
+
+Open web browser to:
+
+http://127.0.0.1:8080
