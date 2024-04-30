@@ -4,6 +4,7 @@ git status
 
 git add
     git add [the file you want to add]
+    or git add -A (for all)
 
 git commit
     git commit -m "means I'm adding a message"
